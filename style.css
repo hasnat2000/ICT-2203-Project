@@ -72,7 +72,7 @@
     }
 
 .background{
-    background: rgba(0, 0, 0, 0.5) url('img/bg.jpg') no-repeat;
+    background: rgba(0, 0, 0, 0.5) url('bg.jpg') no-repeat;
     background-size: cover;
     background-blend-mode: darken;
     background-attachment: fixed;
@@ -406,7 +406,7 @@ margin-top: 40px;
 .login-page{
 	min-height: 100vh;
 	padding:15px;
-	background: rgba(0,0,0,0.2) url('img/bg1.jpg') no-repeat ;
+	background: rgba(0,0,0,0.2) url('bg1.jpg') no-repeat ;
 	background-size: cover;	
 	display: flex;
 	flex-wrap: wrap;
@@ -603,7 +603,7 @@ margin-top: 40px;
 /*----------------------------Feedback section---------*/
 
 .feedback-section{
-        background: rgba(0, 0, 0, 0.4) url(img/feedback.jpg) no-repeat center;
+        background: rgba(0, 0, 0, 0.4) url(feedback.jpg) no-repeat center;
         background-size: cover;
         padding: 40px 0;
         background-blend-mode: darken;
@@ -670,7 +670,7 @@ margin-top: 40px;
     align-items: center;
     flex-direction: column;
     color: white;
-    background: rgba(0, 0, 0, 0.9) url(img/contract.jpg) no-repeat ;
+    background: rgba(0, 0, 0, 0.9) url(contract.jpg) no-repeat ;
     background-size: cover;
     background-blend-mode: darken;
     border: 1px solid gray;
